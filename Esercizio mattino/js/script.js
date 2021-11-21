@@ -22,6 +22,7 @@
 let addition = 0;
 let i = 0;
 
+// while index < 5 ask the number, add the number at the result
 while ( i < 5 ) {
     const userNumber = parseInt(prompt('inserisci un numero'));
 
